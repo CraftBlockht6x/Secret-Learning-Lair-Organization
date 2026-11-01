@@ -7,4 +7,4 @@
 - 老鼠窝社区 v1.0.0 APK
 
 ## 相关仓库
-- 学科教材：https://github.com/你的用户名/Secret-Learning-Lair-Organization-2
+- 学科教材：https://github.com/CraftBlockht6x/Secret-Learning-Lair-Organization-2
